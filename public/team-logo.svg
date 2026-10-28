@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <linearGradient id="crimsonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF4655" />
+      <stop offset="100%" stop-color="#9E1B28" />
+    </linearGradient>
+  </defs>
+  <polygon points="60,6 110,32 96,98 60,114 24,98 10,32" fill="#0D1017" stroke="url(#crimsonGrad)" stroke-width="4"/>
+  <polygon points="60,16 98,36 86,88 60,102 34,88 22,36" fill="#141923" stroke="#262D3D" stroke-width="1.5"/>
+  <path d="M35 42 L60 88 L85 42 L73 42 L60 67 L47 42 Z" fill="url(#crimsonGrad)"/>
+  <polygon points="60,24 67,36 53,36" fill="#ECE8E1"/>
+</svg>

@@ -1,0 +1,81 @@
+{
+  "revision": 2,
+  "updatedAt": "2026-10-28T11:47:04.773Z",
+  "updatedBy": "Kuronami 雨雲 #RED",
+  "updatedByClientId": "board-u50qt7ls",
+  "editingStrategyId": null,
+  "mapId": "ascent",
+  "name": "ASCENT B EXECUTE",
+  "subtitle": "",
+  "side": "Angriff",
+  "site": "B",
+  "type": "Execute",
+  "assignments": [
+    {
+      "slotIndex": 0,
+      "playerId": "p-lunar",
+      "agentId": "breach",
+      "callsignOrTask": ""
+    },
+    {
+      "slotIndex": 1,
+      "playerId": null,
+      "agentId": null,
+      "callsignOrTask": ""
+    },
+    {
+      "slotIndex": 2,
+      "playerId": null,
+      "agentId": null,
+      "callsignOrTask": ""
+    },
+    {
+      "slotIndex": 3,
+      "playerId": null,
+      "agentId": null,
+      "callsignOrTask": ""
+    },
+    {
+      "slotIndex": 4,
+      "playerId": null,
+      "agentId": null,
+      "callsignOrTask": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": "step-live-1",
+      "phase": "Pre-Round / Setup",
+      "timing": "1:40",
+      "description": ""
+    }
+  ],
+  "notes": "",
+  "boardPages": [
+    {
+      "id": "page-live-1",
+      "name": "Page 1",
+      "agentTokens": [
+        {
+          "id": "agent-tok-1793188024730-abq4",
+          "agentId": "breach",
+          "side": "ally",
+          "playerId": "p-lunar",
+          "x": 75.91,
+          "y": 48.45,
+          "hasVisionCone": false,
+          "visionAngle": -90,
+          "visionLength": 18
+        }
+      ],
+      "abilityTokens": [],
+      "drawings": [],
+      "textNotes": [],
+      "zones": [],
+      "images": []
+    }
+  ],
+  "activePageIndex": 0,
+  "radarTintMode": "VALOPLANT",
+  "rotateMap180": false
+}
