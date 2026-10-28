@@ -1,21 +1,15 @@
 {
-  "name": "valorant-premier-tracker",
+  "name": "bbt-premier-hq",
   "version": "1.0.0",
   "private": true,
-  "description": "VALORANT Premier Team Tracker – E-Sports Dashboard & Android App (Capacitor)",
+  "description": "BigBlackTea (BBT) – Premier Team HQ Website",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "test": "node --experimental-strip-types src/lib/calculations.test.ts",
-    "apk:sync": "npx cap sync android",
-    "apk:build": "powershell -ExecutionPolicy Bypass -File scripts/build-apk.ps1"
+    "lint": "next lint"
   },
   "dependencies": {
-    "@capacitor/android": "^6.2.0",
-    "@capacitor/cli": "^6.2.0",
-    "@capacitor/core": "^6.2.0",
     "lucide-react": "^0.475.0",
     "next": "15.1.7",
     "react": "^19.0.0",
